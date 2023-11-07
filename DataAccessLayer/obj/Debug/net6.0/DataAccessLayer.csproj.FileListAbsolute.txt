@@ -1,0 +1,24 @@
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

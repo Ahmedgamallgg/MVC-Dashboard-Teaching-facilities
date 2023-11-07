@@ -1,0 +1,88 @@
+﻿@model IEnumerable<CourseViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>All Courses</h1>
+<br />
+<a asp-action="Create" class="btn btn-primary">Create New Course</a>
+<br />
+
+<form class="my-3" asp-action="Index" asp-controller="Course">
+    <div class="row">
+        <div class="col-sm-5">
+            <input placeholder="Search By Name" name="Name" class="form-control" />
+        </div>
+        
+        <div class="col-sm-3">
+            <input type="submit" value="Search" class="btn btn-success btn-block" />
+        </div>
+    </div>
+</form>
+
+@if (Model.Count() > 0)
+{
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(cr => cr.Name)</th>
+                <th>@Html.DisplayNameFor(cr => cr.Description)</th>
+                <th>@Html.DisplayNameFor(cr => cr.CreationDate)</th>
+                <th>@Html.DisplayNameFor(cr => cr.CategoryId)</th>
+                
+
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.CreationDate.ToShortDateString()</td>
+                    <td>@item.CategoryId</td>
+
+
+
+                    <td>
+                        <a class="btn btn-success" asp-controller="Course" asp-action="Details" asp-route-id="@item.Id">
+                            <i class="fa-eye"></i> Details
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-warning" asp-controller="Course" asp-action="Update" asp-route-id="@item.Id">
+                            <i class="fa-edit"></i> Update
+
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" asp-controller="Course" asp-action="Delete" asp-route-id="@item.Id">
+                            <i class="fa-trash"></i> Delete
+
+                        </a>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert-warning">
+        <h3>No Course Found!!</h3>
+    </div>
+}
+
+
+
+

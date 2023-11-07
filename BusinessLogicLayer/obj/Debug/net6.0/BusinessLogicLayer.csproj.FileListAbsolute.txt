@@ -1,0 +1,30 @@
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+F:\ASP.NET MVC step by step complete E-commerce tutorial\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+F:\ASP.NET & MVC Project\E-Commerce MVC Project\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll

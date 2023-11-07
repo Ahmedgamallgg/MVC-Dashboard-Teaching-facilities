@@ -1,0 +1,23 @@
+﻿@model CourseViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>Create Course</h1>
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Create" asp-controller="Course" enctype="multipart/form-data">
+            <partial name="PartialViews/CreateOrUpdatePartialView" />
+
+            <input type="submit" title="Add" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-warning">Back To List</a>
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+}
